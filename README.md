@@ -2,9 +2,9 @@
 Social Blogging Application
 
 Project Structure (Important only):
-
+<pre>
 app/
--- main (Blueprint)
+-- main (Blueprint)/
    -- __init__.py
    -- forms.py
    -- views.py
@@ -36,3 +36,4 @@ data-dev.sqlite (Database)
 main.py
 
 requirements.txt (All the dependencies)
+</pre>
