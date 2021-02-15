@@ -4,11 +4,11 @@ Social Blogging Application
 Project Structure (Important only):
 
 app/
--- main (Blueprint)/
+-- main (Blueprint)
    -- __init__.py
    -- forms.py
    -- views.py
--- auth (Blueprint)/
+-- auth (Blueprint)
    -- __init__.py
    -- forms.py
    -- views.py
