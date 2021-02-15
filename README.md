@@ -1,5 +1,5 @@
 # Flasky
-Social Blogging Application
+Social Blogging Application (Demo)
 
 Project Structure (Important only):
 <pre>
@@ -8,7 +8,7 @@ app/
    -- __init__.py
    -- forms.py
    -- views.py
--- auth (Blueprint)
+-- auth (Blueprint)/
    -- __init__.py
    -- forms.py
    -- views.py
